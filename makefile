@@ -1,5 +1,5 @@
 all: arg.c
-		gcc arg.c
+	gcc arg.c
 
 run:
 	./a.out
